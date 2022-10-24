@@ -1,7 +1,8 @@
 {
     "honeyworks_info": "HoneyWorks Info",
     "character": {
-        "default_card_image": "Default Card Image"
+        "default_card_image": "Default Card Image",
+        "general": "General"
     },
     "characters": "Characters",
     "honeyworks_offical_links": "HoneyWorks Offical Links",
