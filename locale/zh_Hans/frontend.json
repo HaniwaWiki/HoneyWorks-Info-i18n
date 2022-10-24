@@ -2,7 +2,8 @@
     "honeyworks_info": "HoneyWorks Info",
     "character": {
         "default_card_image": "Default Card Image",
-        "general": "General"
+        "general": "General",
+        "id": "ID"
     },
     "characters": "Characters",
     "honeyworks_offical_links": "HoneyWorks Offical Links",
