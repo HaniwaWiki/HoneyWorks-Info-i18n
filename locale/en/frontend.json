@@ -3,10 +3,22 @@
     "character": {
         "default_card_image": "Default Card Image",
         "general": "General",
-        "id": "ID"
+        "id": "ID",
+        "name": "Name",
+        "hiragana_name": "Hiragana Name",
+        "character_voice": "Character Voice",
+        "height": "Height",
+        "birthday": "Birthday",
+        "constellation": "Constellation",
+        "blood_type": "Blood Type",
+        "description": "Description"
+    },
+    "character_card": {
+        "show_character_image": "Show Character Image",
+        "show_evolved": "Show Evolved"
     },
     "characters": "Characters",
-    "honeyworks_offical_links": "HoneyWorks Offical Links",
+    "honeyworks_official_links": "HoneyWorks Official Links",
     "information": "Information",
     "music_parts": "Music Parts",
     "scene_cards": "Scene Cards",
