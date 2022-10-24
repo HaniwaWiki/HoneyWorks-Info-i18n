@@ -1,6 +1,8 @@
 {
     "honeyworks_info": "HoneyWorks Info",
-    "character": "Character",
+    "character": {
+        "default_card_image": "Default Card Image"
+    },
     "characters": "Characters",
     "honeyworks_offical_links": "HoneyWorks Offical Links",
     "information": "Information",
