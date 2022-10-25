@@ -13,10 +13,7 @@
         "blood_type": "Blood Type",
         "description": "Description"
     },
-    "character_card": {
-        "show_character_image": "Show Character Image",
-        "show_evolved": "Show Evolved"
-    },
+    "character_card": "Character Card",
     "characters": "Characters",
     "honeyworks_official_links": "HoneyWorks Official Links",
     "information": "Information",
