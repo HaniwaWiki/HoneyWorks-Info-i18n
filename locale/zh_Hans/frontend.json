@@ -25,8 +25,5 @@
     "website": "网站",
     "twitter": "Twitter",
     "youtube": "YouTube",
-    "character_card": {
-        "show_character_image": "展示角色图",
-        "show_evolved": "进化后"
-    }
+    "character_card": "Character Card"
 }
