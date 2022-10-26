@@ -13,12 +13,10 @@
         "description": "人物描述",
         "character_cards_num_in_total": "Character Cards ({0} in total)"
     },
-    "music_parts": "音乐片段",
     "hwpl_calendar": "HWPL 日历",
-    "youtube": "YouTube",
     "character_card": {
-        "show_character_image": "Show Character Image",
-        "show_evolved": "Show Evolved",
+        "show_character_image": "展示角色图",
+        "show_evolved": "进化后",
         "sort_by_colon": "Sort by:",
         "default": "Default",
         "ability": "Ability",
@@ -29,12 +27,12 @@
         "image_evolved": "Image (Evolved)",
         "icon": "Icon",
         "icon_evolved": "Icon (Evolved)",
-        "general": "General",
-        "id": "ID",
+        "general": "角色信息",
+        "id": "编号",
         "card_name": "Card Name",
         "game_statistics": "Game Statistics",
         "character_card_level": "Character Card Level",
-        "statistics_name": "Name",
+        "statistics_name": "姓名",
         "statistics_value": "Value",
         "statistics_value_evolved": "Value (Evolved)",
         "statistics_total": "Total",
@@ -45,27 +43,27 @@
         "statistics_require_exp_total": "Require EXP (Total)"
     },
     "global": {
-        "app_name": "HoneyWorks Info",
-        "events": "Events",
-        "character": "Character",
-        "characters": "Characters",
+        "app_name": "HoneyWorks 资讯站",
+        "events": "活动",
+        "character": "角色",
+        "characters": "角色",
         "character_cards": "Character Cards",
-        "honeyworks_info": "HoneyWorks Info",
-        "honeyworks_official_links": "HoneyWorks Official Links",
-        "information": "Information",
-        "music_parts": "Music Parts",
+        "honeyworks_info": "HoneyWorks 资讯站",
+        "honeyworks_official_links": "HoneyWorks 官方链接",
+        "information": "信息",
+        "music_parts": "音乐片段",
         "music_part_data": "Music Part Data",
-        "scene_cards": "Scene Cards",
+        "scene_cards": "角色卡",
         "skill": "Skill",
         "skills": "Skills",
         "tags": "Tags",
-        "hwpl_calendar": "HWPL Calendar",
-        "about_us": "About Us",
-        "website": "Website",
+        "hwpl_calendar": "HWPL 日历",
+        "about_us": "关于我们",
+        "website": "网站",
         "twitter": "Twitter",
         "youtube": "YouTube",
         "related_resources": "Related Resources",
-        "tools": "Tools"
+        "tools": "工具"
     },
     "skill": {
         "skill_level": "Skill Level",
@@ -81,7 +79,7 @@
             "42": "Combo Support",
             "90": "Platinum Skill"
         },
-        "description": "Description"
+        "description": "人物描述"
     },
     "components": {
         "resource_tabs": {
