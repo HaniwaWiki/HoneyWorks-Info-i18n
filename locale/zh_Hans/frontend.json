@@ -13,7 +13,6 @@
         "description": "人物描述",
         "character_cards_num_in_total": "Character Cards ({0} in total)"
     },
-    "hwpl_calendar": "HWPL 日历",
     "character_card": {
         "show_character_image": "展示角色图",
         "show_evolved": "进化后",
@@ -47,7 +46,7 @@
         "events": "活动",
         "character": "角色",
         "characters": "角色",
-        "character_cards": "Character Cards",
+        "character_cards": "角色卡",
         "honeyworks_info": "HoneyWorks 资讯站",
         "honeyworks_official_links": "HoneyWorks 官方链接",
         "information": "信息",
