@@ -20,3 +20,4 @@ output
 temp.js
 scripts/temp.ts
 tools\afs2\temp
+!/locale/en/frontend.json
