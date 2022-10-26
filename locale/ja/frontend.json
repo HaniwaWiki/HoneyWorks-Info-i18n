@@ -1,5 +1,4 @@
 {
-    "honeyworks_info": "HoneyWorks Info",
     "character": {
         "default_card_image": "Default Card Image",
         "general": "General",
@@ -13,17 +12,10 @@
         "blood_type": "Blood Type",
         "description": "Description"
     },
-    "character_card": "Character Card",
     "characters": "Characters",
-    "honeyworks_official_links": "HoneyWorks Official Links",
     "information": "Information",
-    "music_parts": "Music Parts",
     "scene_cards": "Scene Cards",
-    "events": "Events",
     "tools": "Tools",
-    "hwpl_calendar": "HWPL Calendar",
     "about_us": "About Us",
-    "website": "Website",
-    "twitter": "Twitter",
-    "youtube": "YouTube"
+    "twitter": "Twitter"
 }

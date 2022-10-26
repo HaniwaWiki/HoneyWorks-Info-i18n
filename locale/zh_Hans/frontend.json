@@ -1,5 +1,4 @@
 {
-    "honeyworks_info": "HoneyWorks 资讯站",
     "character": {
         "default_card_image": "默认角色卡图片",
         "general": "角色信息",
@@ -13,17 +12,10 @@
         "blood_type": "血型",
         "description": "人物描述"
     },
-    "characters": "角色",
     "honeyworks_official_links": "HoneyWorks 官方链接",
-    "information": "信息",
     "music_parts": "音乐片段",
-    "scene_cards": "角色卡",
     "events": "活动",
-    "tools": "工具",
     "hwpl_calendar": "HWPL 日历",
-    "about_us": "关于我们",
     "website": "网站",
-    "twitter": "Twitter",
-    "youtube": "YouTube",
-    "character_card": "Character Card"
+    "youtube": "YouTube"
 }
