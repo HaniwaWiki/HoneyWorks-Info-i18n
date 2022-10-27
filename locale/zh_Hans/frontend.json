@@ -14,7 +14,7 @@
         "character_cards_num_in_total": "角色卡（共 {0} 张）"
     },
     "character_card": {
-        "show_character_image": "展示角色图片",
+        "show_character_image": "展示人物图",
         "show_evolved": "展示进化后",
         "sort_by_colon": "排序依据：",
         "default": "默认",
