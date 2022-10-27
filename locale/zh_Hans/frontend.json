@@ -41,12 +41,12 @@
         "statistics_require_exp": "所需经验",
         "statistics_require_exp_total": "所需总经验",
         "level_value": "{0}",
-        "level_value_max": "{0} (Max Before Evolution)",
-        "level_value_max_evolved": "{0} (Max After Evolution)",
-        "scene_card": "Scene Card",
-        "scene_card_dynamic": "Scene Card (Dynamic)",
-        "scene_card_evolved": "Scene Card (Evolved)",
-        "scene_card_evolved_dynamic": "Scene Card (Evolved, Dynamic)",
+        "level_value_max": "{0} （进化前满级）",
+        "level_value_max_evolved": "{0} （进化后满级）",
+        "scene_card": "场景卡",
+        "scene_card_dynamic": "场景卡（动态）",
+        "scene_card_evolved": "场景卡（进化后获得）",
+        "scene_card_evolved_dynamic": "场景卡（进化后获得，动态）",
         "mv": "MV"
     },
     "global": {
@@ -71,7 +71,7 @@
         "youtube": "YouTube",
         "related_resources": "相关资源",
         "tools": "工具",
-        "unknown": "Unknown"
+        "unknown": "未知"
     },
     "skill": {
         "skill_level": "技能等级",
@@ -98,19 +98,19 @@
     "route": {
         "///comment: you can export frontend route by": "Object.fromEntries(router.getRoutes().map(({name}) => [name, name]))",
         "404": "404",
-        "Character Detail": "Character Detail",
-        "Character Card Detail": "Character Card Detail",
-        "Music Part Detail": "Music Part Detail",
-        "Scene Card Detail": "Scene Card Detail",
-        "Event Detail": "Event Detail",
-        "Character List": "Character List",
-        "Character Card List": "Character Card List",
-        "Music Part List": "Music Part List",
-        "Scene Card List": "Scene Card List",
-        "Event List": "Event List",
-        "HWPL Calendar": "HWPL Calendar",
-        "HoneyWorks Official Links": "HoneyWorks Official Links",
-        "About Us": "About Us",
-        "Hello World": "Hello World"
+        "Character Detail": "角色信息",
+        "Character Card Detail": "角色卡信息",
+        "Music Part Detail": "音乐片段信息",
+        "Scene Card Detail": "场景卡信息",
+        "Event Detail": "活动信息",
+        "Character List": "角色列表",
+        "Character Card List": "角色卡列表",
+        "Music Part List": "音乐片段列表",
+        "Scene Card List": "场景卡列表",
+        "Event List": "活动列表",
+        "HWPL Calendar": "HWPL 日历",
+        "HoneyWorks Official Links": "HoneyWorks 官方链接",
+        "About Us": "关于我们",
+        "Hello World": "你好，世界"
     }
 }
