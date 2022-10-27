@@ -13,9 +13,7 @@
         "description": "Description",
         "character_cards_num_in_total": "Character Cards ({0} in total)"
     },
-    "information": "Information",
     "tools": "Tools",
-    "twitter": "Twitter",
     "character_card": {
         "show_evolved": "Show Evolved",
         "show_character_image": "Show Character Image",
