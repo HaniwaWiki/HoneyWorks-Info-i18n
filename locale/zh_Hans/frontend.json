@@ -71,7 +71,8 @@
         "youtube": "YouTube",
         "related_resources": "相关资源",
         "tools": "工具",
-        "unknown": "未知"
+        "unknown": "未知",
+        "gerira_live_query": "Guerrilla Live Query"
     },
     "skill": {
         "skill_level": "技能等级",
@@ -111,6 +112,15 @@
         "HWPL Calendar": "HWPL 日历",
         "HoneyWorks Official Links": "HoneyWorks 官方链接",
         "About Us": "关于我们",
-        "Hello World": "你好，世界"
+        "Hello World": "你好，世界",
+        "Gerira Live Query": "Guerrilla Live Query"
+    },
+    "gerira_live_query": {
+        "refresh": "Refresh",
+        "gerira_level": "Guerrilla Level",
+        "gerira_end_time": "Guerrilla End Time",
+        "notification_title": "New Lv{level} Guerrilla Live",
+        "gerira_room_id": "Guerrilla Room ID",
+        "notification_body": "New Guerrilla Live ({roomId}, LV{level}) appears until {endTime}"
     }
 }
