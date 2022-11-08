@@ -115,8 +115,7 @@
         "gerira_level": "Guerrilla Level",
         "gerira_end_time": "Guerrilla End Time",
         "notification_title": "New Lv{level} Guerrilla Live",
-        "notification_body": "New Guerrilla Live ({roomId}, LV{level}) appears until {endTime}"
-
+        "notification_body": "New Guerrilla Live ({roomId}, Lv{level}) appears until {endTime}"
     },
     "components": {
         "resource_tabs": {
