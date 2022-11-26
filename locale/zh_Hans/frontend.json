@@ -72,7 +72,8 @@
         "related_resources": "相关资源",
         "tools": "工具",
         "unknown": "未知",
-        "gerira_live_query": "游击 Live 查询"
+        "gerira_live_query": "游击 Live 查询",
+        "musics": "Musics"
     },
     "skill": {
         "skill_level": "技能等级",
@@ -113,7 +114,8 @@
         "HoneyWorks Official Links": "HoneyWorks 官方链接",
         "About Us": "关于我们",
         "Hello World": "你好，世界",
-        "Gerira Live Query": "游击 Live 查询"
+        "Gerira Live Query": "游击 Live 查询",
+        "Music List": "Music List"
     },
     "gerira_live_query": {
         "refresh": "刷新",
