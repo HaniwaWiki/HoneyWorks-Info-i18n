@@ -73,7 +73,7 @@
         "tools": "工具",
         "unknown": "未知",
         "gerira_live_query": "游击 Live 查询",
-        "musics": "Musics"
+        "musics": "音乐"
     },
     "skill": {
         "skill_level": "技能等级",
@@ -115,7 +115,7 @@
         "About Us": "关于我们",
         "Hello World": "你好，世界",
         "Gerira Live Query": "游击 Live 查询",
-        "Music List": "Music List"
+        "Music List": "音乐列表"
     },
     "gerira_live_query": {
         "refresh": "刷新",
