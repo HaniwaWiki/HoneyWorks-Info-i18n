@@ -72,7 +72,8 @@
         "youtube": "YouTube",
         "related_resources": "Related Resources",
         "unknown": "Unknown",
-        "gerira_live_query": "Guerrilla Live Query"
+        "gerira_live_query": "Guerrilla Live Query",
+        "musics": "Musics"
     },
     "skill": {
         "skill_level": "Skill Level",
@@ -113,7 +114,8 @@
         "HoneyWorks Official Links": "HoneyWorks Official Links",
         "About Us": "About Us",
         "Hello World": "Hello World",
-        "Gerira Live Query": "Guerrilla Live Query"
+        "Gerira Live Query": "Guerrilla Live Query",
+        "Music List": "Music List"
     },
     "gerira_live_query": {
         "gerira_end_time": "Guerrilla End Time",
