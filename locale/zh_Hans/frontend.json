@@ -125,6 +125,9 @@
         "gerira_room_id": "游击 Live 邀请 ID",
         "notification_body": "出现新的游击 Live ({roomId}, Lv{level})，结束时间 {endTime}"
     },
+    "disclaimer": {
+        "content": "本网站不拥有这些资源，所有版权归其合法所有者所有，包括但不限于 HoneyWorks, flaggs inc。 本网站是一个粉丝建立的仅用于研究的数据库，与 HoneyWorks 没有官方关系。"
+    },
     "music_part": {
         "title_image": "图片",
         "music_logo": "Logo",
