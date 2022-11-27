@@ -124,5 +124,25 @@
         "gerira_room_id": "Guerrilla Room ID",
         "gerira_level": "Guerrilla Level",
         "notification_title": "New Lv{level} Guerrilla Live"
+    },
+    "music_part": {
+        "title_image": "Title Image",
+        "music_logo": "Logo",
+        "mv": "MV",
+        "music": "Music",
+        "music_lossless": "Music (Lossless)",
+        "general": "General",
+        "id": "Music Part Id",
+        "song_name": "Song Name",
+        "song_hiragana_name": "Song Name (Hiragana)",
+        "part_name": "Part Name",
+        "singer_name": "Singer",
+        "composer": "Composer",
+        "songwriter": "Song Writer",
+        "music_time": "Music Time",
+        "game_statistics": "Game Statistics",
+        "rank": "Rank",
+        "play_level": "Play Level",
+        "updated_at": "Last Updated"
     }
 }
