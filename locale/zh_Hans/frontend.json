@@ -124,5 +124,25 @@
         "notification_title": "新的 Lv{level} 游击 Live",
         "gerira_room_id": "游击 Live 邀请 ID",
         "notification_body": "出现新的游击 Live ({roomId}, Lv{level})，结束时间 {endTime}"
+    },
+    "music_part": {
+        "title_image": "Title Image",
+        "music_logo": "Logo",
+        "mv": "MV",
+        "music": "Music",
+        "general": "General",
+        "id": "Music Part Id",
+        "music_lossless": "Music (Lossless)",
+        "song_name": "Song Name",
+        "song_hiragana_name": "Song Name (Hiragana)",
+        "part_name": "Part Name",
+        "singer_name": "Singer",
+        "composer": "Composer",
+        "songwriter": "Song Writer",
+        "music_time": "Music Time",
+        "updated_at": "Last Updated",
+        "game_statistics": "Game Statistics",
+        "rank": "Rank",
+        "play_level": "Play Level"
     }
 }
