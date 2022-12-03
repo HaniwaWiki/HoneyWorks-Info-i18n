@@ -52,15 +52,15 @@
     "global": {
         "app_name": "HoneyWorks Info",
         "events": "Events",
-        "character": "Character",
-        "characters": "Characters",
-        "character_cards": "Character Cards",
-        "honeyworks_info": "HoneyWorks Info",
-        "honeyworks_official_links": "HoneyWorks Official Links",
-        "information": "Information",
-        "music_parts": "Music Parts",
-        "music_part_data": "Music Part Data",
-        "scene_cards": "Scene Cards",
+        "character": "キャラクター",
+        "characters": "キャラクターたち",
+        "character_cards": "キャラクターカード",
+        "honeyworks_info": "HoneyWorksの情報",
+        "honeyworks_official_links": "HoneyWorks公式リンク",
+        "information": "情報",
+        "music_parts": "音樂の部分",
+        "music_part_data": "音楽部分のデータ",
+        "scene_cards": "シーンカード",
         "skill": "Skill",
         "skills": "Skills",
         "tags": "Tags",
@@ -73,7 +73,7 @@
         "related_resources": "Related Resources",
         "unknown": "Unknown",
         "gerira_live_query": "Guerrilla Live Query",
-        "musics": "Musics"
+        "musics": "音楽"
     },
     "skill": {
         "skill_level": "Skill Level",
