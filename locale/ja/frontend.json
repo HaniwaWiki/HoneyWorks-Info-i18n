@@ -2,9 +2,9 @@
     "character": {
         "default_card_image": "Default Card Image",
         "general": "General",
-        "id": "ID",
+        "id": "キャラID",
         "name": "Name",
-        "hiragana_name": "Hiragana Name",
+        "hiragana_name": "名前(平仮名)",
         "character_voice": "Character Voice",
         "height": "Height",
         "birthday": "Birthday",
@@ -27,7 +27,7 @@
         "icon": "Icon",
         "icon_evolved": "Icon (Evolved)",
         "general": "General",
-        "id": "ID",
+        "id": "キャラカードID",
         "card_name": "Card Name",
         "character_card_level": "Character Card Level",
         "statistics_name": "Name",
@@ -72,7 +72,7 @@
         "youtube": "YouTube",
         "related_resources": "Related Resources",
         "unknown": "Unknown",
-        "gerira_live_query": "Guerrilla Live Query",
+        "gerira_live_query": "ゲリラライブの疑問",
         "musics": "音楽"
     },
     "skill": {
@@ -114,36 +114,36 @@
         "HoneyWorks Official Links": "HoneyWorks Official Links",
         "About Us": "About Us",
         "Hello World": "Hello World",
-        "Gerira Live Query": "Guerrilla Live Query",
-        "Music List": "Music List"
+        "Gerira Live Query": "ゲリラライブの疑問",
+        "Music List": "ミュージックリスト"
     },
     "gerira_live_query": {
-        "gerira_end_time": "Guerrilla End Time",
+        "gerira_end_time": "ゲリラ終了時間",
         "notification_body": "New Guerrilla Live ({roomId}, LV{level}) appears until {endTime}",
         "refresh": "Refresh",
-        "gerira_room_id": "Guerrilla Room ID",
-        "gerira_level": "Guerrilla Level",
-        "notification_title": "New Lv{level} Guerrilla Live"
+        "gerira_room_id": "ゲリラルームID",
+        "gerira_level": "ゲリラレベル",
+        "notification_title": "新 Lv{level}ゲリラライブ"
     },
     "music_part": {
-        "title_image": "Title Image",
-        "music_logo": "Logo",
+        "title_image": "タイトルイメージ",
+        "music_logo": "ロゴ",
         "mv": "MV",
-        "music": "Music",
+        "music": "ミュージック",
         "music_lossless": "Music (Lossless)",
         "general": "General",
-        "id": "Music Part Id",
-        "song_name": "Song Name",
-        "song_hiragana_name": "Song Name (Hiragana)",
-        "part_name": "Part Name",
-        "singer_name": "Singer",
-        "composer": "Composer",
-        "songwriter": "Song Writer",
-        "music_time": "Music Time",
-        "game_statistics": "Game Statistics",
-        "rank": "Rank",
+        "id": "ミュージックパートID",
+        "song_name": "ソングネーム",
+        "song_hiragana_name": "ソングネーム (平仮名)",
+        "part_name": "パートネーム",
+        "singer_name": "歌手",
+        "composer": "作曲家",
+        "songwriter": "作曲家",
+        "music_time": "ミュージックタイム",
+        "game_statistics": "ゲームスタティスティクス",
+        "rank": "ランク",
         "play_level": "Play Level",
-        "updated_at": "Last Updated"
+        "updated_at": "最近の更新"
     },
     "disclaimer": {
         "content": "This website does not own the materials, all credits go to its rightful owner, including but not limited to HoneyWorks, flaggs inc. This website is a fan-made database only for research purpose, has no official relation to HoneyWorks."
