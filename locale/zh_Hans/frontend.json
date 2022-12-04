@@ -101,14 +101,14 @@
             "no_resource_available": "没有资源捏"
         },
         "button_event_status": {
-            "coming": "来了",
+            "coming": "未开始",
             "in_progress": "进行中",
-            "finished": "完成了"
+            "finished": "已结束"
         },
         "item_source": {
-            "item_sources": "项目来源",
-            "in_gacha_boxes_total": "在Gacha盒中（总共｛0｝）",
-            "obtain_achievement_in_events_total": "获得事件成就（总共｛0｝个事件）"
+            "item_sources": "物品来源",
+            "in_gacha_boxes_total": "抽卡（共 {0} 个卡池）",
+            "obtain_achievement_in_events_total": "在活动中达成成就（共｛0｝个活动）"
         }
     },
     "route": {
@@ -125,12 +125,12 @@
         "HWPL Calendar": "HWPL 日历",
         "HoneyWorks Official Links": "HoneyWorks 官方链接",
         "About Us": "关于我们",
-        "Gerira Live Query": "Gerira实时查询",
+        "Gerira Live Query": "游击现场实时查询",
         "Music List": "音乐列表",
-        "Gacha Detail": "加查详图",
-        "Gacha List": "加查列表",
+        "Gacha Detail": "卡池详情",
+        "Gacha List": "卡池列表",
         "Settings": "设置",
-        "///comment: you can export frontend route by running in console": "JSON.stringify（Object.fromEntries（router.getRoutes（））。map（（｛name｝）=>[名称，名称]）））"
+        "///comment: you can export frontend route by running in console": "随便怎么翻译"
     },
     "gerira_live_query": {
         "refresh": "刷新",
@@ -166,31 +166,31 @@
     "gacha": {
         "logo": "Logo",
         "banner": "横幅",
-        "background": "出身背景",
-        "general": "音乐片段信息",
-        "name": "标题",
+        "background": "背景图",
+        "general": "卡池信息",
+        "name": "卡池标题",
         "start_at": "开始时间",
-        "end_at": "结束于",
-        "probability_overview": "概率概述",
-        "usual": "通常的",
-        "confirmed": "已确认",
-        "paid": "支付",
-        "id": "加查ID"
+        "end_at": "结束时间",
+        "probability_overview": "抽卡概率一览",
+        "usual": "通常",
+        "confirmed": "确定",
+        "paid": "付费",
+        "id": "卡池编号"
     },
     "settings": {
         "language_and_server": "语言和服务器",
         "language": "语言",
         "server": "服务器",
-        "style": "风格",
+        "style": "UI 风格",
         "color": "颜色",
-        "apply_color": "申请",
+        "apply_color": "应用",
         "server_list": {
             "jp": "日本（主服务器）",
-            "cn": "china mainland"
+            "cn": "中国大陆"
         },
         "custom_color": "自定义颜色"
     },
     "music": {
-        "id": "音乐Id"
+        "id": "音乐编号"
     }
 }
