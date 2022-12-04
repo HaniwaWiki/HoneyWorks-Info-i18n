@@ -98,7 +98,6 @@
         }
     },
     "route": {
-        "///comment: you can export frontend route by": "Object.fromEntries(router.getRoutes().map(({name}) => [name, name]))",
         "404": "404",
         "Character Detail": "Character Detail",
         "Character Card Detail": "Character Card Detail",
@@ -107,13 +106,11 @@
         "Event Detail": "Event Detail",
         "Character List": "Character List",
         "Character Card List": "Character Card List",
-        "Music Part List": "Music Part List",
         "Scene Card List": "Scene Card List",
         "Event List": "Event List",
         "HWPL Calendar": "HWPL Calendar",
         "HoneyWorks Official Links": "HoneyWorks Official Links",
         "About Us": "About Us",
-        "Hello World": "Hello World",
         "Gerira Live Query": "ゲリラライブの疑問",
         "Music List": "ミュージックリスト"
     },

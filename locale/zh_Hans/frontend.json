@@ -98,7 +98,6 @@
         }
     },
     "route": {
-        "///comment: you can export frontend route by": "Object.fromEntries(router.getRoutes().map(({name}) => [name, name]))",
         "404": "404",
         "Character Detail": "角色信息",
         "Character Card Detail": "角色卡信息",
@@ -107,13 +106,11 @@
         "Event Detail": "活动信息",
         "Character List": "角色列表",
         "Character Card List": "角色卡列表",
-        "Music Part List": "音乐片段列表",
         "Scene Card List": "场景卡列表",
         "Event List": "活动列表",
         "HWPL Calendar": "HWPL 日历",
         "HoneyWorks Official Links": "HoneyWorks 官方链接",
         "About Us": "关于我们",
-        "Hello World": "你好，世界",
         "Gerira Live Query": "游击 Live 查询",
         "Music List": "音乐列表"
     },
