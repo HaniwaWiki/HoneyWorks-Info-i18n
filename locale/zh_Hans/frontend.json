@@ -73,7 +73,11 @@
         "tools": "工具",
         "unknown": "未知",
         "gerira_live_query": "游击 Live 查询",
-        "musics": "音乐"
+        "musics": "音乐",
+        "gachas": "Gachas",
+        "settings": "Settings",
+        "sort_by_colon": "Sort By:",
+        "load_more": "Load More"
     },
     "skill": {
         "skill_level": "技能等级",
@@ -95,6 +99,16 @@
         "resource_tabs": {
             "unsupported_media_type": "不支持的媒体格式：{0}",
             "no_resource_available": "没有资源捏"
+        },
+        "button_event_status": {
+            "coming": "Coming",
+            "in_progress": "In Progress",
+            "finished": "Finished"
+        },
+        "item_source": {
+            "item_sources": "Item Sources",
+            "in_gacha_boxes_total": "In Gacha Boxes ({0} in Total)",
+            "obtain_achievement_in_events_total": "Obtain Achievement in Events ({0} events in Total)"
         }
     },
     "route": {
@@ -112,7 +126,11 @@
         "HoneyWorks Official Links": "HoneyWorks 官方链接",
         "About Us": "关于我们",
         "Gerira Live Query": "游击 Live 查询",
-        "Music List": "音乐列表"
+        "Music List": "音乐列表",
+        "Gacha Detail": "Gacha Detail",
+        "Gacha List": "Gacha List",
+        "Settings": "Settings",
+        "///comment: you can export frontend route by running in console": "JSON.stringify(Object.fromEntries(router.getRoutes().map(({name}) => [name, name])))"
     },
     "gerira_live_query": {
         "refresh": "刷新",
@@ -144,5 +162,35 @@
         "game_statistics": "游戏信息",
         "rank": "难度",
         "play_level": "等级"
+    },
+    "gacha": {
+        "logo": "Logo",
+        "banner": "Banner",
+        "background": "Background",
+        "general": "General",
+        "name": "Title",
+        "start_at": "Start At",
+        "end_at": "End At",
+        "probability_overview": "Probability Overview",
+        "usual": "Usual",
+        "confirmed": "Confirmed",
+        "paid": "Paid",
+        "id": "Gacha ID"
+    },
+    "settings": {
+        "language_and_server": "Language And Server",
+        "language": "Language",
+        "server": "Server",
+        "style": "Style",
+        "color": "Color",
+        "apply_color": "Apply",
+        "server_list": {
+            "jp": "Japan (Main Server)",
+            "cn": "China Mainland"
+        },
+        "custom_color": "Custom Color"
+    },
+    "music": {
+        "id": "Music Id"
     }
 }
