@@ -74,10 +74,10 @@
         "unknown": "Unknown",
         "gerira_live_query": "ゲリラライブの疑問",
         "musics": "音楽",
-        "gachas": "Gachas",
-        "settings": "Settings",
-        "sort_by_colon": "Sort By:",
-        "load_more": "Load More"
+        "gachas": "ガチャス",
+        "settings": "設定＃セッテイ＃",
+        "sort_by_colon": "ソート基準：",
+        "load_more": "追加のロード"
     },
     "skill": {
         "skill_level": "Skill Level",
@@ -101,14 +101,14 @@
             "unsupported_media_type": "Unsupported Media Type: {0}"
         },
         "button_event_status": {
-            "coming": "Coming",
-            "in_progress": "In Progress",
-            "finished": "Finished"
+            "coming": "来ました",
+            "in_progress": "進行中",
+            "finished": "完成しました"
         },
         "item_source": {
-            "item_sources": "Item Sources",
-            "obtain_achievement_in_events_total": "Obtain Achievement in Events ({0} events in Total)",
-            "in_gacha_boxes_total": "In Gacha Boxes ({0} in Total)"
+            "item_sources": "プロジェクトソース",
+            "obtain_achievement_in_events_total": "イベント達成（合計＃0＃イベント）",
+            "in_gacha_boxes_total": "Gachaボックス（合計＃0＃）"
         }
     },
     "route": {
@@ -125,12 +125,12 @@
         "HWPL Calendar": "HWPL Calendar",
         "HoneyWorks Official Links": "HoneyWorks Official Links",
         "About Us": "About Us",
-        "Gerira Live Query": "ゲリラライブの疑問",
+        "Gerira Live Query": "Geriraリアルタイムクエリ",
         "Music List": "ミュージックリスト",
-        "///comment: you can export frontend route by running in console": "JSON.stringify(Object.fromEntries(router.getRoutes().map(({name}) => [name, name])))",
-        "Gacha Detail": "Gacha Detail",
-        "Gacha List": "Gacha List",
-        "Settings": "Settings"
+        "///comment: you can export frontend route by running in console": "JSON.stringify（Object.fromEntries（router.getRoutes（））。map（（＃name＃）=>［名前、名前］））",
+        "Gacha Detail": "詳細を調べる",
+        "Gacha List": "リストの追加",
+        "Settings": "設定＃セッテイ＃"
     },
     "gerira_live_query": {
         "gerira_end_time": "ゲリラ終了時間",
@@ -164,33 +164,33 @@
         "content": "本サイトは材料を所有しておらず、すべての単位はHoneyWorks、Flags株式会社を含むがこれらに限定されない合法的な所有者の所有となっています。本サイトは研究目的のみのfantudeデータベースであり、HoneyWorksとは正式な関係はありません。"
     },
     "gacha": {
-        "logo": "Logo",
-        "banner": "Banner",
-        "background": "Background",
+        "logo": "ロゴ",
+        "banner": "バナー",
+        "background": "出身背景",
         "general": "General",
-        "id": "Gacha ID",
-        "name": "Title",
-        "end_at": "End At",
-        "probability_overview": "Probability Overview",
-        "confirmed": "Confirmed",
-        "paid": "Paid",
-        "start_at": "Start At",
-        "usual": "Usual"
+        "id": "IDの追加",
+        "name": "タイトル",
+        "end_at": "終了",
+        "probability_overview": "確率の概要",
+        "confirmed": "確認済み",
+        "paid": "支払い",
+        "start_at": "開始時間",
+        "usual": "ありふれた"
     },
     "settings": {
-        "language_and_server": "Language And Server",
-        "language": "Language",
-        "server": "Server",
-        "style": "Style",
-        "color": "Color",
-        "custom_color": "Custom Color",
-        "apply_color": "Apply",
+        "language_and_server": "言語とサーバ",
+        "language": "言語",
+        "server": "サーバー＃サーバー＃",
+        "style": "スタイル",
+        "color": "カラー",
+        "custom_color": "カスタム色",
+        "apply_color": "申し込み",
         "server_list": {
-            "cn": "China Mainland",
-            "jp": "Japan (Main Server)"
+            "cn": "china mainland",
+            "jp": "日本（メインサーバ）"
         }
     },
     "music": {
-        "id": "Music Id"
+        "id": "音楽Id"
     }
 }
