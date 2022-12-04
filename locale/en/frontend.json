@@ -12,6 +12,7 @@
         "music_parts": "Music Parts",
         "music_part_data": "Music Part Data",
         "scene_cards": "Scene Cards",
+        "gachas": "Gachas",
         "skill": "Skill",
         "skills": "Skills",
         "tags": "Tags",
@@ -19,31 +20,35 @@
         "hwpl_calendar": "HWPL Calendar",
         "gerira_live_query": "Guerrilla Live Query",
         "unknown": "Unknown",
+        "settings": "Settings",
         "about_us": "About Us",
         "website": "Website",
         "twitter": "Twitter",
         "youtube": "YouTube",
-        "related_resources": "Related Resources"
+        "related_resources": "Related Resources",
+        "sort_by_colon": "Sort By:",
+        "load_more": "Load More"
     },
     "route": {
-        "///comment: you can export frontend route by": "Object.fromEntries(router.getRoutes().map(({name}) => [name, name]))",
+        "///comment: you can export frontend route by running in console": "JSON.stringify(Object.fromEntries(router.getRoutes().map(({name}) => [name, name])))",
         "404": "404",
         "Character Detail": "Character Detail",
         "Character Card Detail": "Character Card Detail",
         "Music Part Detail": "Music Part Detail",
         "Scene Card Detail": "Scene Card Detail",
+        "Gacha Detail": "Gacha Detail",
         "Event Detail": "Event Detail",
         "Character List": "Character List",
         "Character Card List": "Character Card List",
         "Music List": "Music List",
-        "Music Part List": "Music Part List",
         "Scene Card List": "Scene Card List",
+        "Gacha List": "Gacha List",
         "Event List": "Event List",
         "HWPL Calendar": "HWPL Calendar",
+        "Gerira Live Query": "Gerira Live Query",
         "HoneyWorks Official Links": "HoneyWorks Official Links",
-        "About Us": "About Us",
-        "Hello World": "Hello World",
-        "Gerira Live Query": "Guerrilla Live Query"
+        "Settings": "Settings",
+        "About Us": "About Us"
     },
     "character": {
         "default_card_image": "Default Card Image",
@@ -95,6 +100,9 @@
         "statistics_require_exp": "Require EXP",
         "statistics_require_exp_total": "Require EXP (Total)"
     },
+    "music": {
+        "id": "Music Id"
+    },
     "music_part": {
         "title_image": "Title Image",
         "music_logo": "Logo",
@@ -114,6 +122,20 @@
         "game_statistics": "Game Statistics",
         "rank": "Rank",
         "play_level": "Play Level"
+    },
+    "gacha": {
+        "logo": "Logo",
+        "banner": "Banner",
+        "background": "Background",
+        "general": "General",
+        "id": "Gacha ID",
+        "name": "Title",
+        "start_at": "Start At",
+        "end_at": "End At",
+        "probability_overview": "Probability Overview",
+        "usual": "Usual",
+        "confirmed": "Confirmed",
+        "paid": "Paid"
     },
     "skill": {
         "skill_level": "Skill Level",
@@ -139,6 +161,19 @@
         "notification_title": "New Lv{level} Guerrilla Live",
         "notification_body": "New Guerrilla Live ({roomId}, Lv{level}) appears until {endTime}"
     },
+    "settings": {
+        "language_and_server": "Language And Server",
+        "language": "Language",
+        "server": "Server",
+        "style": "Style",
+        "color": "Color",
+        "custom_color": "Custom Color",
+        "apply_color": "Apply",
+        "server_list": {
+            "jp": "Japan (Main Server)",
+            "cn": "China Mainland"
+        }
+    },
     "disclaimer": {
         "content": "This website does not own the materials, all credits go to its rightful owner, including but not limited to HoneyWorks, flaggs inc. This website is a fan-made database only for research purpose, has no official relation to HoneyWorks."
     },
@@ -146,6 +181,16 @@
         "resource_tabs": {
             "unsupported_media_type": "Unsupported Media Type: {0}",
             "no_resource_available": "No Resource Available"
+        },
+        "button_event_status": {
+            "coming": "Coming",
+            "in_progress": "In Progress",
+            "finished": "Finished"
+        },
+        "item_source": {
+            "item_sources": "Item Sources",
+            "in_gacha_boxes_total": "In Gacha Boxes ({0} in Total)",
+            "obtain_achievement_in_events_total": "Obtain Achievement in Events ({0} events in Total)"
         }
     }
 }
