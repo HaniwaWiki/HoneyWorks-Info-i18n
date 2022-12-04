@@ -74,10 +74,10 @@
         "unknown": "未知",
         "gerira_live_query": "游击 Live 查询",
         "musics": "音乐",
-        "gachas": "Gachas",
-        "settings": "Settings",
-        "sort_by_colon": "Sort By:",
-        "load_more": "Load More"
+        "gachas": "加查斯",
+        "settings": "设置",
+        "sort_by_colon": "排序依据：",
+        "load_more": "加载更多"
     },
     "skill": {
         "skill_level": "技能等级",
@@ -101,14 +101,14 @@
             "no_resource_available": "没有资源捏"
         },
         "button_event_status": {
-            "coming": "Coming",
-            "in_progress": "In Progress",
-            "finished": "Finished"
+            "coming": "来了",
+            "in_progress": "进行中",
+            "finished": "完成了"
         },
         "item_source": {
-            "item_sources": "Item Sources",
-            "in_gacha_boxes_total": "In Gacha Boxes ({0} in Total)",
-            "obtain_achievement_in_events_total": "Obtain Achievement in Events ({0} events in Total)"
+            "item_sources": "项目来源",
+            "in_gacha_boxes_total": "在Gacha盒中（总共｛0｝）",
+            "obtain_achievement_in_events_total": "获得事件成就（总共｛0｝个事件）"
         }
     },
     "route": {
@@ -125,12 +125,12 @@
         "HWPL Calendar": "HWPL 日历",
         "HoneyWorks Official Links": "HoneyWorks 官方链接",
         "About Us": "关于我们",
-        "Gerira Live Query": "游击 Live 查询",
+        "Gerira Live Query": "Gerira实时查询",
         "Music List": "音乐列表",
-        "Gacha Detail": "Gacha Detail",
-        "Gacha List": "Gacha List",
-        "Settings": "Settings",
-        "///comment: you can export frontend route by running in console": "JSON.stringify(Object.fromEntries(router.getRoutes().map(({name}) => [name, name])))"
+        "Gacha Detail": "加查详图",
+        "Gacha List": "加查列表",
+        "Settings": "设置",
+        "///comment: you can export frontend route by running in console": "JSON.stringify（Object.fromEntries（router.getRoutes（））。map（（｛name｝）=>[名称，名称]）））"
     },
     "gerira_live_query": {
         "refresh": "刷新",
@@ -165,32 +165,32 @@
     },
     "gacha": {
         "logo": "Logo",
-        "banner": "Banner",
-        "background": "Background",
-        "general": "General",
-        "name": "Title",
-        "start_at": "Start At",
-        "end_at": "End At",
-        "probability_overview": "Probability Overview",
-        "usual": "Usual",
-        "confirmed": "Confirmed",
-        "paid": "Paid",
-        "id": "Gacha ID"
+        "banner": "横幅",
+        "background": "出身背景",
+        "general": "音乐片段信息",
+        "name": "标题",
+        "start_at": "开始时间",
+        "end_at": "结束于",
+        "probability_overview": "概率概述",
+        "usual": "通常的",
+        "confirmed": "已确认",
+        "paid": "支付",
+        "id": "加查ID"
     },
     "settings": {
-        "language_and_server": "Language And Server",
-        "language": "Language",
-        "server": "Server",
-        "style": "Style",
-        "color": "Color",
-        "apply_color": "Apply",
+        "language_and_server": "语言和服务器",
+        "language": "语言",
+        "server": "服务器",
+        "style": "风格",
+        "color": "颜色",
+        "apply_color": "申请",
         "server_list": {
-            "jp": "Japan (Main Server)",
-            "cn": "China Mainland"
+            "jp": "日本（主服务器）",
+            "cn": "china mainland"
         },
-        "custom_color": "Custom Color"
+        "custom_color": "自定义颜色"
     },
     "music": {
-        "id": "Music Id"
+        "id": "音乐Id"
     }
 }
