@@ -73,7 +73,11 @@
         "related_resources": "Related Resources",
         "unknown": "Unknown",
         "gerira_live_query": "ゲリラライブの疑問",
-        "musics": "音楽"
+        "musics": "音楽",
+        "gachas": "Gachas",
+        "settings": "Settings",
+        "sort_by_colon": "Sort By:",
+        "load_more": "Load More"
     },
     "skill": {
         "skill_level": "Skill Level",
@@ -95,6 +99,16 @@
         "resource_tabs": {
             "no_resource_available": "No Resource Available",
             "unsupported_media_type": "Unsupported Media Type: {0}"
+        },
+        "button_event_status": {
+            "coming": "Coming",
+            "in_progress": "In Progress",
+            "finished": "Finished"
+        },
+        "item_source": {
+            "item_sources": "Item Sources",
+            "obtain_achievement_in_events_total": "Obtain Achievement in Events ({0} events in Total)",
+            "in_gacha_boxes_total": "In Gacha Boxes ({0} in Total)"
         }
     },
     "route": {
@@ -112,7 +126,11 @@
         "HoneyWorks Official Links": "HoneyWorks Official Links",
         "About Us": "About Us",
         "Gerira Live Query": "ゲリラライブの疑問",
-        "Music List": "ミュージックリスト"
+        "Music List": "ミュージックリスト",
+        "///comment: you can export frontend route by running in console": "JSON.stringify(Object.fromEntries(router.getRoutes().map(({name}) => [name, name])))",
+        "Gacha Detail": "Gacha Detail",
+        "Gacha List": "Gacha List",
+        "Settings": "Settings"
     },
     "gerira_live_query": {
         "gerira_end_time": "ゲリラ終了時間",
@@ -144,5 +162,35 @@
     },
     "disclaimer": {
         "content": "本サイトは材料を所有しておらず、すべての単位はHoneyWorks、Flags株式会社を含むがこれらに限定されない合法的な所有者の所有となっています。本サイトは研究目的のみのfantudeデータベースであり、HoneyWorksとは正式な関係はありません。"
+    },
+    "gacha": {
+        "logo": "Logo",
+        "banner": "Banner",
+        "background": "Background",
+        "general": "General",
+        "id": "Gacha ID",
+        "name": "Title",
+        "end_at": "End At",
+        "probability_overview": "Probability Overview",
+        "confirmed": "Confirmed",
+        "paid": "Paid",
+        "start_at": "Start At",
+        "usual": "Usual"
+    },
+    "settings": {
+        "language_and_server": "Language And Server",
+        "language": "Language",
+        "server": "Server",
+        "style": "Style",
+        "color": "Color",
+        "custom_color": "Custom Color",
+        "apply_color": "Apply",
+        "server_list": {
+            "cn": "China Mainland",
+            "jp": "Japan (Main Server)"
+        }
+    },
+    "music": {
+        "id": "Music Id"
     }
 }
