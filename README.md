@@ -1,5 +1,9 @@
 # HoneyWorks-Info-i18n
 
+<a style='float:right' href="https://weblate.honeyworks.info/engage/haniwa-wiki/">
+<img src="https://weblate.honeyworks.info/widgets/haniwa-wiki/-/honeyworks-info/multi-auto.svg" alt="translation status" />
+</a>
+
 This is translation repository of [HoneyWorks Info](https://honeyworks.info/).
 
 Made with ❤️ by HoneyWorks fans.
@@ -8,7 +12,7 @@ Made with ❤️ by HoneyWorks fans.
 
 Contributions are welcome!
 
-We use self-hosted [Weblate](https://weblate.org/) to translate front-end UI and back-end data (character name, etc.). Please visit [HoneyWorks Info Weblate](https://weblate.honeyworks.info/) and contribute.
+We use self-hosted [Weblate](https://weblate.org/) to translate front-end UI and back-end data (character name, etc.). Please visit [HoneyWorks Info Weblate](https://weblate.honeyworks.info/engage/haniwa-wiki/) and contribute.
 
 If your language is not listed in Weblate, please create an issue.
 
