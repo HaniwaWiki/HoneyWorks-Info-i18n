@@ -1,12 +1,13 @@
 # HoneyWorks-Info-i18n
 
-<a style='float:right' href="https://weblate.honeyworks.info/engage/haniwa-wiki/">
-<img src="https://weblate.honeyworks.info/widgets/haniwa-wiki/-/honeyworks-info/multi-auto.svg" alt="translation status" />
+<a href="http://weblate.honeyworks.info/engage/haniwa-wiki/">
+<img src="http://weblate.honeyworks.info/widgets/haniwa-wiki/-/honeyworks-info/svg-badge.svg" alt="translation status" />
 </a>
 
 This is translation repository of [HoneyWorks Info](https://honeyworks.info/).
 
 Made with ❤️ by HoneyWorks fans.
+
 
 ## How to contribute
 
