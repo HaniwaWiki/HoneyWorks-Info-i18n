@@ -188,7 +188,8 @@
         "server_list": {
             "cn": "china mainland",
             "jp": "日本（メインサーバ）"
-        }
+        },
+        "invalid_color_value": "Invalid color value"
     },
     "music": {
         "id": "音楽Id"
