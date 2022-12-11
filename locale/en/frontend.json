@@ -169,6 +169,7 @@
         "color": "Color",
         "custom_color": "Custom Color",
         "apply_color": "Apply",
+        "invalid_color_value": "Invalid color value",
         "server_list": {
             "jp": "Japan (Main Server)",
             "cn": "China Mainland"
