@@ -189,7 +189,7 @@
             "cn": "中国大陆"
         },
         "custom_color": "自定义颜色",
-        "invalid_color_value": "Invalid color value"
+        "invalid_color_value": "无效的颜色值"
     },
     "music": {
         "id": "音乐编号"
