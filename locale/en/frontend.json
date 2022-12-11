@@ -165,6 +165,7 @@
         "language_and_server": "Language And Server",
         "language": "Language",
         "server": "Server",
+        "clear_server_cache": "Clear Server Cache",
         "style": "Style",
         "color": "Color",
         "custom_color": "Custom Color",
