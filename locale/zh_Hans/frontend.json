@@ -188,7 +188,8 @@
             "jp": "日本（主服务器）",
             "cn": "中国大陆"
         },
-        "custom_color": "自定义颜色"
+        "custom_color": "自定义颜色",
+        "invalid_color_value": "Invalid color value"
     },
     "music": {
         "id": "音乐编号"
