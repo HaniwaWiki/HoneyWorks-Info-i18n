@@ -190,7 +190,7 @@
             "jp": "日本（メインサーバ）"
         },
         "invalid_color_value": "カラー値が無効です",
-        "clear_server_cache": "Clear Server Cache"
+        "clear_server_cache": "サーバキャッシュのクリア"
     },
     "music": {
         "id": "音楽Id"
