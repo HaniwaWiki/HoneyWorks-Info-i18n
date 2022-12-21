@@ -108,7 +108,7 @@
         "item_source": {
             "item_sources": "物品来源",
             "in_gacha_boxes_total": "抽卡（共 {0} 个卡池）",
-            "obtain_achievement_in_events_total": "在活动中达成成就（共｛0｝个活动）"
+            "obtain_achievement_in_events_total": "在活动中达成成就（共 {0} 个活动）"
         }
     },
     "route": {
