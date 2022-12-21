@@ -107,7 +107,7 @@
         },
         "item_source": {
             "item_sources": "プロジェクトソース",
-            "obtain_achievement_in_events_total": "イベント達成（合計＃0＃イベント）",
+            "obtain_achievement_in_events_total": "イベント達成（合計 {0} イベント）",
             "in_gacha_boxes_total": "Gachaボックス（合計＃0＃）"
         }
     },
