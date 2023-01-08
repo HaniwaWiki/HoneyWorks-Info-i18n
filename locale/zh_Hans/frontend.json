@@ -78,7 +78,7 @@
         "settings": "设置",
         "sort_by_colon": "排序依据：",
         "load_more": "加载更多",
-        "music_meta": "音乐元数据",
+        "music_meta": "音乐数据",
         "search": "搜索"
     },
     "skill": {
@@ -200,9 +200,9 @@
     },
     "music_meta": {
         "music_name": "音乐名称",
-        "part_name": "音乐片段名",
-        "difficulty": "困难",
-        "level": "数量",
+        "part_name": "片段名",
+        "difficulty": "难度",
+        "level": "等级",
         "time_seconds": "时间（秒）"
     }
 }
