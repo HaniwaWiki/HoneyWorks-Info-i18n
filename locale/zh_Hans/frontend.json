@@ -77,7 +77,9 @@
         "gachas": "卡池",
         "settings": "设置",
         "sort_by_colon": "排序依据：",
-        "load_more": "加载更多"
+        "load_more": "加载更多",
+        "music_meta": "Music Meta",
+        "search": "Search"
     },
     "skill": {
         "skill_level": "技能等级",
@@ -130,7 +132,8 @@
         "Gacha Detail": "卡池详情",
         "Gacha List": "卡池列表",
         "Settings": "设置",
-        "///comment: you can export frontend route by running in console": "随便怎么翻译"
+        "///comment: you can export frontend route by running in console": "随便怎么翻译",
+        "Music Meta": "Music Meta"
     },
     "gerira_live_query": {
         "refresh": "刷新",
@@ -194,5 +197,12 @@
     },
     "music": {
         "id": "音乐编号"
+    },
+    "music_meta": {
+        "music_name": "Music Name",
+        "part_name": "Part Name",
+        "difficulty": "Difficulty",
+        "level": "Level",
+        "time_seconds": "Time (Seconds)"
     }
 }
