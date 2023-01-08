@@ -9,6 +9,7 @@
         "honeyworks_official_links": "HoneyWorks Official Links",
         "information": "Information",
         "musics": "Musics",
+        "music_meta": "Music Meta",
         "music_parts": "Music Parts",
         "music_part_data": "Music Part Data",
         "scene_cards": "Scene Cards",
@@ -27,7 +28,8 @@
         "youtube": "YouTube",
         "related_resources": "Related Resources",
         "sort_by_colon": "Sort By:",
-        "load_more": "Load More"
+        "load_more": "Load More",
+        "search": "Search"
     },
     "route": {
         "///comment: you can export frontend route by running in console": "JSON.stringify(Object.fromEntries(router.getRoutes().map(({name}) => [name, name])))",
@@ -41,6 +43,7 @@
         "Character List": "Character List",
         "Character Card List": "Character Card List",
         "Music List": "Music List",
+        "Music Meta": "Music Meta",
         "Scene Card List": "Scene Card List",
         "Gacha List": "Gacha List",
         "Event List": "Event List",
@@ -122,6 +125,13 @@
         "game_statistics": "Game Statistics",
         "rank": "Rank",
         "play_level": "Play Level"
+    },
+    "music_meta": {
+        "music_name": "Music Name",
+        "part_name": "Part Name",
+        "difficulty": "Difficulty",
+        "level": "Level",
+        "time_seconds" :"Time (Seconds)"
     },
     "gacha": {
         "logo": "Logo",
