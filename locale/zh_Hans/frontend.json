@@ -78,8 +78,8 @@
         "settings": "设置",
         "sort_by_colon": "排序依据：",
         "load_more": "加载更多",
-        "music_meta": "Music Meta",
-        "search": "Search"
+        "music_meta": "音乐元数据",
+        "search": "搜索"
     },
     "skill": {
         "skill_level": "技能等级",
@@ -133,7 +133,7 @@
         "Gacha List": "卡池列表",
         "Settings": "设置",
         "///comment: you can export frontend route by running in console": "随便怎么翻译",
-        "Music Meta": "Music Meta"
+        "Music Meta": "音乐元数据"
     },
     "gerira_live_query": {
         "refresh": "刷新",
@@ -199,10 +199,10 @@
         "id": "音乐编号"
     },
     "music_meta": {
-        "music_name": "Music Name",
-        "part_name": "Part Name",
-        "difficulty": "Difficulty",
-        "level": "Level",
-        "time_seconds": "Time (Seconds)"
+        "music_name": "音乐名称",
+        "part_name": "音乐片段名",
+        "difficulty": "困难",
+        "level": "数量",
+        "time_seconds": "时间（秒）"
     }
 }
