@@ -77,7 +77,9 @@
         "gachas": "ガチャス",
         "settings": "設定＃セッテイ＃",
         "sort_by_colon": "ソート基準：",
-        "load_more": "追加のロード"
+        "load_more": "追加のロード",
+        "music_meta": "Music Meta",
+        "search": "Search"
     },
     "skill": {
         "skill_level": "Skill Level",
@@ -130,7 +132,8 @@
         "///comment: you can export frontend route by running in console": "JSON.stringify（Object.fromEntries（router.getRoutes（））。map（（＃name＃）=>［名前、名前］））",
         "Gacha Detail": "詳細を調べる",
         "Gacha List": "リストの追加",
-        "Settings": "設定＃セッテイ＃"
+        "Settings": "設定＃セッテイ＃",
+        "Music Meta": "Music Meta"
     },
     "gerira_live_query": {
         "gerira_end_time": "ゲリラ終了時間",
@@ -194,5 +197,12 @@
     },
     "music": {
         "id": "音楽Id"
+    },
+    "music_meta": {
+        "music_name": "Music Name",
+        "part_name": "Part Name",
+        "difficulty": "Difficulty",
+        "level": "Level",
+        "time_seconds": "Time (Seconds)"
     }
 }
