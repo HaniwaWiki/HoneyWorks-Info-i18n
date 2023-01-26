@@ -124,14 +124,18 @@
         "updated_at": "Last Updated",
         "game_statistics": "Game Statistics",
         "rank": "Rank",
-        "play_level": "Play Level"
+        "play_level": "Play Level",
+        "speed": "Speed",
+        "dual_line": "Dual Line",
+        "show_line": "Show Line",
+        "song_chart": "Song Chart"
     },
     "music_meta": {
         "music_name": "Music Name",
         "part_name": "Part Name",
         "difficulty": "Difficulty",
         "level": "Level",
-        "time_seconds" :"Time (Seconds)"
+        "time_seconds": "Time (Seconds)"
     },
     "gacha": {
         "logo": "Logo",
