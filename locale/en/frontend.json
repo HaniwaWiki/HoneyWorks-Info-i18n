@@ -29,7 +29,8 @@
         "related_resources": "Related Resources",
         "sort_by_colon": "Sort By:",
         "load_more": "Load More",
-        "search": "Search"
+        "search": "Search",
+        "album": "Albums"
     },
     "route": {
         "///comment: you can export frontend route by running in console": "JSON.stringify(Object.fromEntries(router.getRoutes().map(({name}) => [name, name])))",
@@ -124,11 +125,7 @@
         "updated_at": "Last Updated",
         "game_statistics": "Game Statistics",
         "rank": "Rank",
-        "play_level": "Play Level",
-        "speed": "Speed",
-        "dual_line": "Dual Line",
-        "show_line": "Show Line",
-        "song_chart": "Song Chart"
+        "play_level": "Play Level"
     },
     "music_meta": {
         "music_name": "Music Name",
@@ -136,6 +133,20 @@
         "difficulty": "Difficulty",
         "level": "Level",
         "time_seconds": "Time (Seconds)"
+    },
+    "scene_cards": {
+        "scene_card_Id": "Id",
+        "scene_card_belong": "Belong Album",
+        "scene_card_release_date": "Release Date",
+        "scene_card_acquisition_conditions_guide": "Acquisition Conditions Guide",
+        "scene_card_acquisition_conditions": "Acquisition Conditions Type",
+        "PlaySelect": "Play Select",
+        "Trade": "Trade",
+        "CharacterEvolution": "Character Evolution",
+        "Gacha": "Gacha",
+        "ScenarioEvent": "Scenario Event",
+        "MVEvent": "MV Event",
+        "null": "Unknown"
     },
     "gacha": {
         "logo": "Logo",
@@ -150,6 +161,22 @@
         "usual": "Usual",
         "confirmed": "Confirmed",
         "paid": "Paid"
+    },
+    "album": {
+        "all": "All",
+        "type_1": "Regular Honey Light",
+        "type_2": "Monthly Platinum Honey Light",
+        "type_3": "Diamond Platinum Honey Light",
+        "group_by": "Group By",
+        "id": "ID",
+        "name": "Name",
+        "hiragana_name": "Name (Hiragana)",
+        "version_id": "Version Id",
+        "skill_info": "Skill Info",
+        "type": "Type",
+        "scene_cards": "Scene Cards",
+        "general": "General",
+        "no_tag": "No Tags"
     },
     "skill": {
         "skill_level": "Skill Level",
