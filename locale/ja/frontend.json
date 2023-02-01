@@ -78,8 +78,8 @@
         "settings": "設定＃セッテイ＃",
         "sort_by_colon": "ソート基準：",
         "load_more": "追加のロード",
-        "music_meta": "Music Meta",
-        "search": "Search"
+        "music_meta": "音楽メタデータ",
+        "search": "検索けんさく"
     },
     "skill": {
         "skill_level": "Skill Level",
@@ -129,11 +129,11 @@
         "About Us": "About Us",
         "Gerira Live Query": "Geriraリアルタイムクエリ",
         "Music List": "ミュージックリスト",
-        "///comment: you can export frontend route by running in console": "JSON.stringify（Object.fromEntries（router.getRoutes（））。map（（＃name＃）=>［名前、名前］））",
+        "///comment: you can export frontend route by running in console": "JSON.stringify（Object.fromEntries（router.getRoutes（）.map（（＃name＃）=>［名前、名前］）））",
         "Gacha Detail": "詳細を調べる",
         "Gacha List": "リストの追加",
         "Settings": "設定＃セッテイ＃",
-        "Music Meta": "Music Meta"
+        "Music Meta": "音楽メタデータ"
     },
     "gerira_live_query": {
         "gerira_end_time": "ゲリラ終了時間",
@@ -199,10 +199,10 @@
         "id": "音楽Id"
     },
     "music_meta": {
-        "music_name": "Music Name",
-        "part_name": "Part Name",
-        "difficulty": "Difficulty",
-        "level": "Level",
-        "time_seconds": "Time (Seconds)"
+        "music_name": "音楽のタイトル",
+        "part_name": "パートネーム",
+        "difficulty": "困難",
+        "level": "数量",
+        "time_seconds": "時間（秒）"
     }
 }
