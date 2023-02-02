@@ -79,7 +79,8 @@
         "sort_by_colon": "ソート基準：",
         "load_more": "追加のロード",
         "music_meta": "音楽メタデータ",
-        "search": "検索けんさく"
+        "search": "検索けんさく",
+        "album": "Albums"
     },
     "skill": {
         "skill_level": "Skill Level",
@@ -204,5 +205,35 @@
         "difficulty": "困難",
         "level": "数量",
         "time_seconds": "時間（秒）"
+    },
+    "scene_cards": {
+        "scene_card_Id": "Id",
+        "scene_card_belong": "Belong Album",
+        "scene_card_release_date": "Release Date",
+        "scene_card_acquisition_conditions_guide": "Acquisition Conditions Guide",
+        "scene_card_acquisition_conditions": "Acquisition Conditions Type",
+        "PlaySelect": "Play Select",
+        "Trade": "Trade",
+        "CharacterEvolution": "Character Evolution",
+        "Gacha": "Gacha",
+        "ScenarioEvent": "Scenario Event",
+        "MVEvent": "MV Event",
+        "null": "Unknown"
+    },
+    "album": {
+        "all": "All",
+        "type_1": "Regular Honey Light",
+        "type_2": "Monthly Platinum Honey Light",
+        "type_3": "Diamond Platinum Honey Light",
+        "group_by": "Group By",
+        "id": "ID",
+        "name": "Name",
+        "hiragana_name": "Name (Hiragana)",
+        "version_id": "Version Id",
+        "skill_info": "Skill Info",
+        "type": "Type",
+        "scene_cards": "Scene Cards",
+        "general": "General",
+        "no_tag": "No Tags"
     }
 }
