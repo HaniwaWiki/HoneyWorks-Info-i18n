@@ -80,7 +80,7 @@
         "load_more": "追加のロード",
         "music_meta": "音楽メタデータ",
         "search": "検索けんさく",
-        "album": "Albums"
+        "album": "アルバム枚"
     },
     "skill": {
         "skill_level": "Skill Level",
@@ -207,33 +207,33 @@
         "time_seconds": "時間（秒）"
     },
     "scene_cards": {
-        "scene_card_Id": "Id",
-        "scene_card_belong": "Belong Album",
+        "scene_card_Id": "身分証明書",
+        "scene_card_belong": "アルバム",
         "scene_card_release_date": "Release Date",
-        "scene_card_acquisition_conditions_guide": "Acquisition Conditions Guide",
-        "scene_card_acquisition_conditions": "Acquisition Conditions Type",
-        "PlaySelect": "Play Select",
-        "Trade": "Trade",
-        "CharacterEvolution": "Character Evolution",
-        "Gacha": "Gacha",
-        "ScenarioEvent": "Scenario Event",
-        "MVEvent": "MV Event",
+        "scene_card_acquisition_conditions_guide": "収集条件ガイド",
+        "scene_card_acquisition_conditions": "収集条件タイプ",
+        "PlaySelect": "再生選択",
+        "Trade": "貿易",
+        "CharacterEvolution": "キャラクタの進化",
+        "Gacha": "チェック",
+        "ScenarioEvent": "シナリオイベント",
+        "MVEvent": "MVイベント",
         "null": "Unknown"
     },
     "album": {
-        "all": "All",
-        "type_1": "Regular Honey Light",
-        "type_2": "Monthly Platinum Honey Light",
-        "type_3": "Diamond Platinum Honey Light",
-        "group_by": "Group By",
+        "all": "すべての",
+        "type_1": "普通のハチミツ光",
+        "type_2": "毎月プラチナハチミツ光",
+        "type_3": "ダイヤモンドプラチナハニーライト",
+        "group_by": "グループ化の基準",
         "id": "ID",
         "name": "Name",
-        "hiragana_name": "Name (Hiragana)",
-        "version_id": "Version Id",
-        "skill_info": "Skill Info",
+        "hiragana_name": "名前(平仮名)",
+        "version_id": "バージョンId",
+        "skill_info": "スキル情報",
         "type": "Type",
-        "scene_cards": "Scene Cards",
+        "scene_cards": "シーンカード",
         "general": "General",
-        "no_tag": "No Tags"
+        "no_tag": "マークなし"
     }
 }
