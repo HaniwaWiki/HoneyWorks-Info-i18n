@@ -80,7 +80,7 @@
         "load_more": "追加のロード",
         "music_meta": "音楽メタデータ",
         "search": "検索けんさく",
-        "album": "アルバム枚"
+        "album": "アルバム冊"
     },
     "skill": {
         "skill_level": "Skill Level",
@@ -111,7 +111,7 @@
         "item_source": {
             "item_sources": "プロジェクトソース",
             "obtain_achievement_in_events_total": "イベント達成（合計 {0} イベント）",
-            "in_gacha_boxes_total": "Gachaボックス（合計＃0＃）"
+            "in_gacha_boxes_total": "Gachaボックス（合計＃0＃個）"
         }
     },
     "route": {
@@ -130,15 +130,15 @@
         "About Us": "About Us",
         "Gerira Live Query": "Geriraリアルタイムクエリ",
         "Music List": "ミュージックリスト",
-        "///comment: you can export frontend route by running in console": "JSON.stringify（Object.fromEntries（router.getRoutes（）.map（（＃name＃）=>［名前、名前］）））",
-        "Gacha Detail": "詳細を調べる",
-        "Gacha List": "リストの追加",
+        "///comment: you can export frontend route by running in console": "JSON.stringfy（Object.fromEntries（router.getRoutes（）.map（（＃name＃）=>［名前、名前］）",
+        "Gacha Detail": "Gacha詳細",
+        "Gacha List": "Gachaリスト",
         "Settings": "設定＃セッテイ＃",
         "Music Meta": "音楽メタデータ"
     },
     "gerira_live_query": {
         "gerira_end_time": "ゲリラ終了時間",
-        "notification_body": "新しいGuerrilla Live（＃roomId＃、Lv＃level＃）が＃endTime＃に表示されます",
+        "notification_body": "新しいゲリラ生中継（＃roomId＃，Lv＃level＃）が＃endTime＃に出現した",
         "refresh": "リフレッシュ",
         "gerira_room_id": "ゲリラルームID",
         "gerira_level": "ゲリラレベル",
@@ -161,7 +161,7 @@
         "music_time": "ミュージックタイム",
         "game_statistics": "ゲームスタティスティクス",
         "rank": "ランク",
-        "play_level": "再生レベル",
+        "play_level": "ゲームレベル",
         "updated_at": "最近の更新"
     },
     "disclaimer": {
@@ -172,9 +172,9 @@
         "banner": "バナー",
         "background": "出身背景",
         "general": "General",
-        "id": "IDの追加",
+        "id": "ガチャガチャID",
         "name": "タイトル",
-        "end_at": "終了",
+        "end_at": "終了時間",
         "probability_overview": "確率の概要",
         "confirmed": "確認済み",
         "paid": "支払い",
@@ -208,23 +208,23 @@
     },
     "scene_cards": {
         "scene_card_Id": "身分証明書",
-        "scene_card_belong": "アルバム",
+        "scene_card_belong": "ホームアルバム",
         "scene_card_release_date": "Release Date",
-        "scene_card_acquisition_conditions_guide": "収集条件ガイド",
+        "scene_card_acquisition_conditions_guide": "買収条件ガイド",
         "scene_card_acquisition_conditions": "収集条件タイプ",
         "PlaySelect": "再生選択",
         "Trade": "貿易",
-        "CharacterEvolution": "キャラクタの進化",
-        "Gacha": "チェック",
-        "ScenarioEvent": "シナリオイベント",
+        "CharacterEvolution": "性格の変化",
+        "Gacha": "ガチャンと鳴らす",
+        "ScenarioEvent": "シーンイベント",
         "MVEvent": "MVイベント",
         "null": "Unknown"
     },
     "album": {
         "all": "すべての",
-        "type_1": "普通のハチミツ光",
-        "type_2": "毎月プラチナハチミツ光",
-        "type_3": "ダイヤモンドプラチナハニーライト",
+        "type_1": "普通の蜂蜜は薄い",
+        "type_2": "毎月プラチナハニーランプ",
+        "type_3": "ダイヤモンドプラチナハニーランプ",
         "group_by": "グループ化の基準",
         "id": "ID",
         "name": "Name",
