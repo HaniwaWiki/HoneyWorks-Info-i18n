@@ -78,7 +78,7 @@
         "settings": "設定＃セッテイ＃",
         "sort_by_colon": "ソート基準：",
         "load_more": "追加のロード",
-        "music_meta": "音楽メタデータ",
+        "music_meta": "音楽要素",
         "search": "検索けんさく",
         "album": "アルバム冊"
     },
@@ -104,9 +104,9 @@
             "unsupported_media_type": "Unsupported Media Type: {0}"
         },
         "button_event_status": {
-            "coming": "来ました",
+            "coming": "近日発売",
             "in_progress": "進行中",
-            "finished": "完成しました"
+            "finished": "完了"
         },
         "item_source": {
             "item_sources": "プロジェクトソース",
@@ -131,14 +131,14 @@
         "Gerira Live Query": "Geriraリアルタイムクエリ",
         "Music List": "ミュージックリスト",
         "///comment: you can export frontend route by running in console": "JSON.stringfy（Object.fromEntries（router.getRoutes（）.map（（＃name＃）=>［名前、名前］）",
-        "Gacha Detail": "Gacha詳細",
-        "Gacha List": "Gachaリスト",
+        "Gacha Detail": "詳細を調べる",
+        "Gacha List": "リストを検索",
         "Settings": "設定＃セッテイ＃",
-        "Music Meta": "音楽メタデータ"
+        "Music Meta": "音楽要素"
     },
     "gerira_live_query": {
         "gerira_end_time": "ゲリラ終了時間",
-        "notification_body": "新しいゲリラ生中継（＃roomId＃，Lv＃level＃）が＃endTime＃に出現した",
+        "notification_body": "新しいゲリラの現場（＃＃roomId＃，Lv＃＃level＃）は、＃endTime＃＃",
         "refresh": "リフレッシュ",
         "gerira_room_id": "ゲリラルームID",
         "gerira_level": "ゲリラレベル",
@@ -177,7 +177,7 @@
         "end_at": "終了時間",
         "probability_overview": "確率の概要",
         "confirmed": "確認済み",
-        "paid": "支払い",
+        "paid": "支払い済み",
         "start_at": "開始時間",
         "usual": "ありふれた"
     },
