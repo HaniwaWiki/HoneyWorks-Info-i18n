@@ -223,7 +223,7 @@
         "no_tag": "没有标记"
     },
     "scene_cards": {
-        "scene_card_Id": "身份证",
+        "scene_card_Id": "Id",
         "scene_card_belong": "归属相册",
         "scene_card_release_date": "发布日期",
         "scene_card_acquisition_conditions": "采集条件类型",
