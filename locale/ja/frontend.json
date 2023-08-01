@@ -78,7 +78,7 @@
         "settings": "設定＃セッテイ＃",
         "sort_by_colon": "ソート基準：",
         "load_more": "追加のロード",
-        "music_meta": "音楽要素",
+        "music_meta": "音楽メタデータ",
         "search": "検索けんさく",
         "album": "アルバム冊"
     },
@@ -128,17 +128,17 @@
         "HWPL Calendar": "HWPL Calendar",
         "HoneyWorks Official Links": "HoneyWorks Official Links",
         "About Us": "About Us",
-        "Gerira Live Query": "Geriraリアルタイムクエリ",
+        "Gerira Live Query": "Gerira Liveクエリー",
         "Music List": "ミュージックリスト",
         "///comment: you can export frontend route by running in console": "JSON.stringfy（Object.fromEntries（router.getRoutes（）.map（（＃name＃）=>［名前、名前］）",
-        "Gacha Detail": "詳細を調べる",
-        "Gacha List": "リストを検索",
+        "Gacha Detail": "Gacha詳細",
+        "Gacha List": "Gachaリスト",
         "Settings": "設定＃セッテイ＃",
-        "Music Meta": "音楽要素"
+        "Music Meta": "音楽メタデータ"
     },
     "gerira_live_query": {
         "gerira_end_time": "ゲリラ終了時間",
-        "notification_body": "新しいゲリラの現場（＃＃roomId＃，Lv＃＃level＃）は、＃endTime＃＃",
+        "notification_body": "新しいゲリラ生中継（＃roomId＃，Lv＃level＃）が＃endTime＃に出現した",
         "refresh": "リフレッシュ",
         "gerira_room_id": "ゲリラルームID",
         "gerira_level": "ゲリラレベル",
@@ -165,16 +165,16 @@
         "updated_at": "最近の更新"
     },
     "disclaimer": {
-        "content": "本サイトは材料を所有しておらず、すべての単位はHoneyWorks、Flags株式会社を含むがこれらに限定されない合法的な所有者の所有となっています。本サイトは研究目的のみのfantudeデータベースであり、HoneyWorksとは正式な関係はありません。"
+        "content": "本サイトは材料を所有しておらず、すべての信用はHoneyWorks、flaggs株式会社を含むがこれらに限定されない合法的な所有者の所有になっています。本サイトはファンデータベースであり、研究目的にのみ使用され、HoneyWorksとは公式な関係はありません。"
     },
     "gacha": {
         "logo": "ロゴ",
         "banner": "バナー",
-        "background": "出身背景",
+        "background": "背景",
         "general": "General",
         "id": "ガチャガチャID",
         "name": "タイトル",
-        "end_at": "終了時間",
+        "end_at": "終了",
         "probability_overview": "確率の概要",
         "confirmed": "確認済み",
         "paid": "支払い済み",
@@ -207,7 +207,7 @@
         "time_seconds": "時間（秒）"
     },
     "scene_cards": {
-        "scene_card_Id": "身分証明書",
+        "scene_card_Id": "Id",
         "scene_card_belong": "ホームアルバム",
         "scene_card_release_date": "Release Date",
         "scene_card_acquisition_conditions_guide": "買収条件ガイド",
